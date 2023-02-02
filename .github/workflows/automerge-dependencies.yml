@@ -1,4 +1,4 @@
-name: Auto Merge Dependency Updates
+name: Auto Merge pullFeb23
 
 # **What it does**:
 #  - automerge-internal: Automatically merge dependabot's pull requests in the internal repository.
